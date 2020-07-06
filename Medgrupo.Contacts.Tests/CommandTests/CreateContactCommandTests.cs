@@ -12,7 +12,7 @@ namespace Medgrupo.Contacts.Tests.Commands
 
         public CreateContactCommandTests()
         {
-            _validCommand = new CreateContactCommand("Leonardo", "Masculino", new DateTime(2021, 2, 16));
+            _validCommand = new CreateContactCommand("Leonardo", "Masculino", new DateTime(1984, 2, 16));
             _invalidCommand = new CreateContactCommand("", "", new DateTime());
         }
 
@@ -29,5 +29,13 @@ namespace Medgrupo.Contacts.Tests.Commands
             _validCommand.Validate();
             Assert.AreEqual(_validCommand.Valid, true);
         }        
+
+        [TestMethod]
+        public void Dado_um_nascimento_futuro_comando_deve_ser_invalido()
+        {
+            _validCommand.Birth = new DateTime(DateTime.Now.Year + 1, DateTime.Now.Month, DateTime.Now.Day);
+            _validCommand.Validate();
+            Assert.AreEqual(_validCommand.Valid, false);
+        }          
     }
 }
