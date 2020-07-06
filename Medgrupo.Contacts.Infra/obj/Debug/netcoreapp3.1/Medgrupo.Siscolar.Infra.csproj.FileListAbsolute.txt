@@ -1,0 +1,15 @@
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.deps.json
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.runtimeconfig.json
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.runtimeconfig.dev.json
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.dll
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.pdb
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Domain.dll
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Siscolar.Domain.pdb
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.csprojAssemblyReference.cache
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.AssemblyInfoInputs.cache
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.AssemblyInfo.cs
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.csproj.CoreCompileInputs.cache
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.csproj.CopyComplete
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.dll
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.pdb
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Siscolar.Infra.genruntimeconfig.cache

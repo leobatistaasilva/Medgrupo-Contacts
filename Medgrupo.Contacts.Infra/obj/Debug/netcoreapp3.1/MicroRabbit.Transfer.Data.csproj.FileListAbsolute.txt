@@ -1,0 +1,17 @@
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.deps.json
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.runtimeconfig.json
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.runtimeconfig.dev.json
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csproj.CopyComplete
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+D:\rep\ls\Microservices\Estudos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.genruntimeconfig.cache

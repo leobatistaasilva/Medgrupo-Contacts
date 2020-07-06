@@ -1,0 +1,15 @@
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.deps.json
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.runtimeconfig.json
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.runtimeconfig.dev.json
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.dll
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.pdb
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Domain.dll
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\bin\Debug\netcoreapp3.1\Medgrupo.Contacts.Domain.pdb
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.csprojAssemblyReference.cache
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.AssemblyInfoInputs.cache
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.AssemblyInfo.cs
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.csproj.CoreCompileInputs.cache
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.csproj.CopyComplete
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.dll
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.pdb
+C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Infra\obj\Debug\netcoreapp3.1\Medgrupo.Contacts.Infra.genruntimeconfig.cache

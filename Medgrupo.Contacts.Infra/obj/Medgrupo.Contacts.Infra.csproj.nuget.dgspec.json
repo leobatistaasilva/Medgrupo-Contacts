@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
+        "projectName": "Medgrupo.Contacts.Domain",
+        "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
+        "packagesPath": "C:\\Users\\leonardo.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.celulardireto.com.br/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tg4-tecnologia/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
+        "projectName": "Medgrupo.Contacts.Infra",
+        "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
+        "packagesPath": "C:\\Users\\leonardo.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.celulardireto.com.br/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tg4-tecnologia/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
+                "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
