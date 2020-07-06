@@ -37,5 +37,12 @@ namespace Medgrupo.Contacts.Tests.HandlerTests
             _result = (GenericCommandResult) _handler.Handle(_validCommand);
             Assert.AreEqual(_result.Success, true);
         }
+
+        public void Dado_comando_invalido_com_nascimento_futuro_deve_interromper_a_execucao()
+        {
+            _validCommand.Birth = new DateTime(DateTime.Now.Year + 1, DateTime.Now.Month, DateTime.Now.Day);
+            _validCommand.Validate();
+            Assert.AreEqual(_validCommand.Valid, false);
+        }
     }
 }
