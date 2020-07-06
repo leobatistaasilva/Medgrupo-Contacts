@@ -1,0 +1,9 @@
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\bin\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.deps.json
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\bin\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.dll
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\bin\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.pdb
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\obj\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.AssemblyInfoInputs.cache
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\obj\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.AssemblyInfo.cs
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\obj\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.csproj.CoreCompileInputs.cache
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\obj\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.dll
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\obj\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.pdb
+D:\rep\ls\Microservices\medgrupo.siscolar.poc\Medgrupo.Siscolar.Domain\obj\Debug\netstandard2.0\Medgrupo.Siscolar.Domain.csprojAssemblyReference.cache

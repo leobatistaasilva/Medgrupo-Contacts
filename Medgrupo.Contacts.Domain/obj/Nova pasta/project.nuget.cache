@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RseOnWMZneuS9HrESVXK49IIvUuwk7NS/9Idjy7uGoca5oFSPSQuTFnpnc3glAd4Ti0u5mwdTYjJR4XFDW7MZw==",
+  "success": true,
+  "projectFilePath": "D:\\rep\\ls\\Microservices\\Estudos\\7196-master\\7196-master\\Medgrupo.Siscolar.Domain\\Medgrupo.Siscolar.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.silva\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
