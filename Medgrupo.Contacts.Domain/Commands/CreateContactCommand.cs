@@ -30,7 +30,8 @@ namespace Medgrupo.Contacts.Domain.Commands
                     .Requires()
                     .HasMinLen(Name, 5, "Name", "Por favor, digite o nome do contato!")
                     .HasMinLen(Gender, 4, "Gender", "Por favor, digite o genero!")
-                    .IsTrue(DateTime.TryParse(Birth.ToString(), out dateBirth), "Birth", "Por favor, digite uma data de nascimento v�lida!")
+                    .IsTrue(DateTime.TryParse(Birth.ToString(), out dateBirth), "Birth", "Por favor, digite uma data de nascimento válida!")
+                    .IsFalse((Birth.Year > DateTime.Now.Year), "Birth", "Por favor, data de nascimento futura digite um data válida!")
             );            
         }
     }
