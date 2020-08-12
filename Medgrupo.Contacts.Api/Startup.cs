@@ -1,8 +1,10 @@
+using HealthChecks.UI.Client;
 using Medgrupo.Contacts.Domain.Handlers;
 using Medgrupo.Contacts.Domain.Repositories;
 using Medgrupo.Contacts.Infra.Contexts;
 using Medgrupo.Contacts.Infra.Repositories;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -34,6 +36,8 @@ namespace Medgrupo.Contacts.Api
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
             );
 
+            services.AddHealthChecks().AddSqlServer(Configuration.GetConnectionString("ContactsDbConnection"));
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "MedGrupo Contacts OnLine Documentation", Version = "v1" });
@@ -64,6 +68,13 @@ namespace Medgrupo.Contacts.Api
                 .AllowAnyOrigin()
                 .AllowAnyMethod()
                 .AllowAnyHeader());
+
+            //app.UseHealthChecks("/api/health");
+
+            app.UseHealthChecks("/hc", new HealthCheckOptions
+            {
+                ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+            });
 
             app.UseEndpoints(endpoints =>
             {

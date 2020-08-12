@@ -208,11 +208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
+      "projectUniqueName": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
       "projectName": "Medgrupo.Contacts.Domain",
-      "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
+      "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
       "packagesPath": "C:\\Users\\leonardo.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\obj\\",
+      "outputPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

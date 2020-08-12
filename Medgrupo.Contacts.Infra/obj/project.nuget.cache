@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cPtYiZinr93v2dpe5iuJgvaI65/4TC8CeOYFuaKEFz48O66hQ27oWG/V8AgubPrPAnbLIpMFlJzFT0Pv0Lrpaw==",
+  "dgSpecHash": "K/eoA9rUopJwllF9xgvzxHxF8vhgD8AeIoTU65tBTc8W7hVvAb+vy59QU/OhFYoMiZ19QhoCB1Yv3U8M74EYUg==",
   "success": true,
-  "projectFilePath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
+  "projectFilePath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonardo.silva\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\leonardo.silva\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

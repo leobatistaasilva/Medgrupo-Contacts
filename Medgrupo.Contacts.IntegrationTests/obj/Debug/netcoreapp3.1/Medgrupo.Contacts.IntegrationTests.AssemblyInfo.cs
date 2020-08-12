@@ -11,8 +11,8 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Medgrupo.Contacts.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Api", "Medgrupo.Contacts.Api.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Medgrupo.Contacts.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra", "Medgrupo.Contacts.Infra.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Medgrupo.Contacts.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Api", "Medgrupo.Contacts.Api.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Medgrupo.Contacts.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra", "Medgrupo.Contacts.Infra.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Medgrupo.Contacts.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

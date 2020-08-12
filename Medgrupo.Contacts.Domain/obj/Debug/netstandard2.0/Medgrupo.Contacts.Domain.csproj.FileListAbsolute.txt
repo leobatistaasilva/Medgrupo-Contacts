@@ -16,3 +16,12 @@ C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\
 C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.dll
 C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.pdb
 C:\MedGrupo\MedGrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.csprojAssemblyReference.cache
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\bin\Debug\netstandard2.0\Medgrupo.Contacts.Domain.deps.json
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\bin\Debug\netstandard2.0\Medgrupo.Contacts.Domain.dll
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\bin\Debug\netstandard2.0\Medgrupo.Contacts.Domain.pdb
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.csprojAssemblyReference.cache
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.AssemblyInfoInputs.cache
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.AssemblyInfo.cs
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.csproj.CoreCompileInputs.cache
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.dll
+D:\rep\ls\Microservices\Estudos\Medgrupo-Contacts\Medgrupo.Contacts.Domain\obj\Debug\netstandard2.0\Medgrupo.Contacts.Domain.pdb

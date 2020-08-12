@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj": {}
+    "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj": {}
   },
   "projects": {
-    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj": {
+    "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj",
+        "projectUniqueName": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj",
         "projectName": "Medgrupo.Contacts.Api",
-        "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj",
+        "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Api\\Medgrupo.Contacts.Api.csproj",
         "packagesPath": "C:\\Users\\leonardo.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Api\\obj\\",
+        "outputPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -34,11 +34,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
-                "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj"
+              "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
+                "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj"
               },
-              "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj": {
-                "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj"
+              "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj": {
+                "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj"
               }
             }
           }
@@ -52,6 +52,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.1.5, )"
@@ -101,14 +109,14 @@
         }
       }
     },
-    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
+    "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
+        "projectUniqueName": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
         "projectName": "Medgrupo.Contacts.Domain",
-        "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
+        "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj",
         "packagesPath": "C:\\Users\\leonardo.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\obj\\",
+        "outputPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -167,14 +175,14 @@
         }
       }
     },
-    "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj": {
+    "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
+        "projectUniqueName": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
         "projectName": "Medgrupo.Contacts.Infra",
-        "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
+        "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\Medgrupo.Contacts.Infra.csproj",
         "packagesPath": "C:\\Users\\leonardo.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Infra\\obj\\",
+        "outputPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -197,8 +205,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
-                "projectPath": "C:\\MedGrupo\\MedGrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj"
+              "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj": {
+                "projectPath": "D:\\rep\\ls\\Microservices\\Estudos\\Medgrupo-Contacts\\Medgrupo.Contacts.Domain\\Medgrupo.Contacts.Domain.csproj"
               }
             }
           }
